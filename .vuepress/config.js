@@ -10,9 +10,9 @@ module.exports = {
     //主题配置
     themeConfig: {
         //仓库地址
-        repo: "baomidou/mybatis-plus",
+        repo: "Caisin/blog",
         //文档地址
-        docsRepo: "baomidou/mybatis-plus-doc",
+        docsRepo: "Caisin/blog",
         editLinks: true,
         nav: [
             {text: '首页', link: '/'},
