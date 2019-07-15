@@ -12,7 +12,7 @@ cd docs
 
 git init
 git add -A
-git commit -m 'deploy'
+sudo git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io
 sudo git push -f https://github.com/Caisin/caisin.github.io.git master
