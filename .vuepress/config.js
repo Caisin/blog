@@ -41,6 +41,7 @@ function genSwSideBar(){
                 "level3",
                 "level4",
                 "level5",
+                "level6-u1-p1",
             ]
         }
     ]
